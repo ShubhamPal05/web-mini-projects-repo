@@ -1,2 +1,2 @@
-# web-mini-projects-repo
-This contains several web based mini-projects
+## This contains several web based mini-projects
+## MagicBoard https://magicboardapp.netlify.app/
